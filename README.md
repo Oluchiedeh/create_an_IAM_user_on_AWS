@@ -10,13 +10,15 @@
   ![](Admin.png)
 - Tick **Provide user access to the AWS Managemen** Console check box.
 - Choose **I want to create an IAM user**
-  ![](C-IAM.png)
-- Choose Custom password and enter a password of your choice. 
+- - Choose Custom password and enter a password of your choice. 
 - Uncheck the Users must create a new password box. 
+  ![](C-IAM.png)
 - Click Next.
 
 # Set Permissions.
-- Choose **Attach policies directly**, tick **AdministratorAccess** option and then click **Next.**
+- Choose **Attach policies directly**,
+  ![](Attach.png)
+- tick **AdministratorAccess** option and then click **Next.**
 - Review and create user.
 - Copy the URL or download the cvs file.
 
