@@ -25,6 +25,7 @@
 - Review and create user.
   ![](User-create.png)
 - Copy the URL or download the cvs file.
+  ![](download.png)
 
 
 Log out from the **root user** and then log in to the **Administrator user** you just created using the URL you copied above.
