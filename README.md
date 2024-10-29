@@ -1,5 +1,9 @@
 # create_an_IAM_user_on_AWS
 
+**WHO IS AN IAM USER?** - an IAM (Identity and Access Management) user is an entity that you create to represent an individual person or application that interacts with AWS resources. IAM users are part of AWS’s access management system and can be assigned permissions to access and manage AWS services and resources.
+
+**Let's create Adminstrator as an IAM user.**
+
 - Start with creating a AWS Account
 - From the log in page, sign in as the root user with password.
 - Then proceed to the IAM console.
