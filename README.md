@@ -5,8 +5,9 @@
 - Then proceed to the IAM console.
   ![](design.png)
 - From the left sidebar of the IAM Console, click **Users** and then click **Add user**
-  ![]()
+  ![](Users.png)
 - Enter User name as **Administrator.**
+  ![]()
 - Tick **Provide user access to the AWS Managemen** Console check box.
 - Choose **I want to create an IAM user**
 - Choose Custom password and enter a password of your choice. 
