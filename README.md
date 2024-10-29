@@ -21,6 +21,7 @@
 - tick **AdministratorAccess** option.
 - ![](Admin-access.png)
 - Then click **Next.**
+  ![](Admin-next.png)
 - Review and create user.
 - Copy the URL or download the cvs file.
 
