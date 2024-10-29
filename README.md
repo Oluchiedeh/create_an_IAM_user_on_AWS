@@ -26,6 +26,9 @@
   ![](User-create.png)
 - Copy the URL or download the cvs file.
   ![](download.png)
+Log out from the **root user** and then log in to the **Administrator user** you just created.
+![](New.png)
 
+# Conclusion.
 
-Log out from the **root user** and then log in to the **Administrator user** you just created using the URL you copied above.
+We have created IAM user to perform tasks, instead of performing tasks directly with root user.
