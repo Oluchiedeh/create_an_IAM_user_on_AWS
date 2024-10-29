@@ -23,6 +23,7 @@
 - Then click **Next.**
   ![](Admin-next.png)
 - Review and create user.
+  ![](User-create.png)
 - Copy the URL or download the cvs file.
 
 
