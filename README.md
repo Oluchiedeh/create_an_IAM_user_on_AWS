@@ -3,8 +3,9 @@
 - Start with creating a AWS Account
 - From the log in page, sign in as the root user with password.
 - Then proceed to the IAM console.
-  ![](Untitled design.png)
+  ![](design.png)
 - From the left sidebar of the IAM Console, click **Users** and then click **Add user**
+  ![]()
 - Enter User name as **Administrator.**
 - Tick **Provide user access to the AWS Managemen** Console check box.
 - Choose **I want to create an IAM user**
