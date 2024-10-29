@@ -4,17 +4,17 @@
 
 **Let's create Adminstrator as an IAM user.**
 
-- Start with creating a AWS Account
-- From the log in page, sign in as the root user with password.
+- Start with creating an AWS Account
+- From the login page, sign in as the root user with a password.
 - Then proceed to the IAM console.
   ![](design.png)
 - From the left sidebar of the IAM Console, click **Users** and then click **Add user**
   ![](Users.png)
-- Enter User name as **Administrator.**
+- Enter the User name as **Administrator.**
   ![](Admin.png)
 - Tick **Provide user access to the AWS Managemen** Console check box.
 - Choose **I want to create an IAM user**
-- - Choose Custom password and enter a password of your choice. 
+- - Choose a Custom password and enter a password of your choice. 
 - Uncheck the Users must create a new password box. 
   ![](C-IAM.png)
 - Click Next.
