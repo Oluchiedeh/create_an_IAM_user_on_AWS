@@ -18,7 +18,9 @@
 # Set Permissions.
 - Choose **Attach policies directly**,
   ![](Attach.png)
-- tick **AdministratorAccess** option and then click **Next.**
+- tick **AdministratorAccess** option.
+- ![](Admin-access.png)
+- Then click **Next.**
 - Review and create user.
 - Copy the URL or download the cvs file.
 
